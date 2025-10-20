@@ -20,23 +20,17 @@ Este repositório documenta minha jornada de aprendizado em SQL, com os seguinte
 
 ## 📚 Estrutura do Projeto
 
-Módulo 1: Fundamentos
-Introdução a bancos de dados relacionais, modelagem de dados, tipos de dados SQL, criação de tabelas e constraints
+- `01 - database-fundamentals` - Introdução a bancos de dados relacionais, modelagem de dados, tipos de dados SQL, criação de tabelas e constraints
 
-Módulo 2: Operações Básicas
-Operações CRUD (Create, Read, Update, Delete), filtros e ordenação de dados, transações e boas práticas
+- `02 - crud-operations` - Operações CRUD (Create, Read, Update, Delete), filtros e ordenação de dados, transações e boas práticas
 
-Módulo 3: Relacionamentos
-JOINS (INNER, LEFT, RIGHT, FULL), relacionamentos entre tabelas, chaves primárias e estrangeiras, casos práticos
+- `03 - join-relationships` - JOINS (INNER, LEFT, RIGHT, FULL), relacionamentos entre tabelas, chaves primárias e estrangeiras, casos práticos
 
-Módulo 4: Análise de Dados
-Funções de agregação, agrupamento e filtros avançados, análise estatística, geração de relatórios
+- `04 - aggregation-analysis` - Funções de agregação, agrupamento e filtros avançados, análise estatística, geração de relatórios
 
-Módulo 5: Tópicos Avançados
-Subqueries e consultas complexas, otimização de performance, views e procedures, técnicas avançadas
+- `05 - subqueries-advanced` - Subqueries e consultas complexas, otimização de performance, views e procedures, técnicas avançadas
 
-Módulo 6: Projetos Práticos
-Aplicação em cenários reais, desafios de negócio, análise de dados complexa, desenvolvimento de soluções completas
+- `06 - projects` - Aplicação em cenários reais, desafios de negócio, análise de dados complexa, desenvolvimento de soluções completas
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -59,6 +53,6 @@ Aplicação em cenários reais, desafios de negócio, análise de dados complexa
 ## 🤝 Contato
 
 Eduardo Vieira Nogueira 
-📧 Email: eduardovnogueira10@gmail.com
-💼 LinkedIn: www.linkedin.com/in/eduardo-nogueira-25440519b
+- 📧 *Email: eduardovnogueira10@gmail.com*
+- 💼 *LinkedIn: www.linkedin.com/in/eduardo-nogueira-25440519b*
 
