@@ -57,28 +57,28 @@ UPDATE products set quantity = 11 WHERE id = 7;
 
 
 -- MAX
-SELECT MAX(preco) AS 'Maior preço' FROM produtos;
+SELECT MAX(price) AS 'Maior preço' FROM products;
 
 -- MIN
-SELECT MIN(preco) AS 'Menor preço' FROM produtos;
+SELECT MIN(price) AS 'Menor preço' FROM products;
 
 -- AVG
-SELECT AVG(preco) AS 'Media por tipo'
-FROM produtos AS p WHERE p.codigo_tipo = 1;
+SELECT AVG(price) AS 'Media por tipo'
+FROM products AS p WHERE p.id_type = 1;
 
 -- ROUND
-SELECT ROUND(AVG(preco), 2) AS 'Media por tipo 1'
-FROM produtos AS p
-WHERE p.codigo_tipo = 1;
+SELECT ROUND(AVG(price), 2) AS 'Media por tipo 1'
+FROM products AS p
+WHERE p.id_type = 1;
 
 -- GROUP BY
 
 SELECT 
-	tp.descricao AS tipo_produto,
-    MAX(p.preco) AS 'Maior preço'
+	tp.name AS product_types,
+    MAX(p.price) AS 'Maior preço'
 FROM
-	produtos AS p
+	products AS p
 JOIN
-	tipos_produto AS tp ON p.codigo_tipo = tp.codigo
+	product_types AS tp ON p.id_type = tp.id
 GROUP BY
-	tp.descricao;
+	tp.name;
