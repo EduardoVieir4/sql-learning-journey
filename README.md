@@ -43,18 +43,18 @@ Aplicação em cenários reais, desafios de negócio, análise de dados complexa
 - Linguagem de programação: SQL
 - SGBD: MySQL
 
-🚀 Como Utilizar Este Repositório
+## 🚀 Como Utilizar Este Repositório
 
 - git clone git@github.com:EduardoVieir4/sql-learning-journey.git
 
 ## 📈 Progresso do Aprendizado
 
-[] Fundamentos de Banco de Dados
-[x] Operações Básicas
-[x] Relacionamentos e JOINS
-[] Análise e Agregação
-[] Tópicos Avançados
-[] Projetos Práticos
+- [] Fundamentos de Banco de Dados
+- [x] Operações Básicas
+- [x] Relacionamentos e JOINS
+- [] Análise e Agregação
+- [] Tópicos Avançados
+- [] Projetos Práticos
 
 ## 🤝 Contato
 
