@@ -22,7 +22,7 @@ Este repositório documenta minha jornada de aprendizado em SQL, com os seguinte
 
 - `01 - database-fundamentals` - Introdução a bancos de dados relacionais, modelagem de dados, tipos de dados SQL, criação de tabelas e constraints
 
-- `02 - crud-operations` - Operações CRUD (Create, Read, Update, Delete), filtros e ordenação de dados, transações e boas práticas
+- `02 - crud-operations` - Operações CRUD (Create, Read, Update, Delete), filtros e boas práticas
 
 - `03 - join-relationships` - JOINS (INNER, LEFT, RIGHT, FULL), relacionamentos entre tabelas, chaves primárias e estrangeiras, casos práticos
 
@@ -43,7 +43,7 @@ Este repositório documenta minha jornada de aprendizado em SQL, com os seguinte
 
 ## 📈 Progresso do Aprendizado
 
-- [] Fundamentos de Banco de Dados
+- [x] Fundamentos de Banco de Dados
 - [x] Operações Básicas
 - [x] Relacionamentos e JOINS
 - [] Análise e Agregação
